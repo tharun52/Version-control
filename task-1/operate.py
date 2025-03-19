@@ -1,4 +1,4 @@
-#First in main branch just to add two numbers
+#Merged operations-branch
 
 a = int(input("Enter a : "))
 b = int(input("Enter b : "))
