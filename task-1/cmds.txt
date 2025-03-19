@@ -1,0 +1,11 @@
+git init
+
+git clone https://github.com/tharun52/Version-control.git
+
+git add .
+
+git commit -m "dd cmds,txt and operate.py"
+
+git log --oneline
+
+git push -u origin main
